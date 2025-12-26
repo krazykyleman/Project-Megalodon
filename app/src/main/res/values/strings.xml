@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tap Tycoon</string>
+    <string name="tap_button">Tap Me!</string>
+    <string name="coins">Coins</string>
+    <string name="per_second">per second</string>
+    <string name="upgrades">Upgrades</string>
+    <string name="buy">Buy</string>
+    <string name="watch_ad">Watch Ad for Bonus</string>
+    <string name="ad_bonus">Get 100 coins!</string>
+</resources>
